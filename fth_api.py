@@ -1,6 +1,7 @@
 # FTH BACKEND PYTHON FILE
 # ServingNow.me
 # https://c1zwsl05s5.execute-api.us-west-1.amazonaws.com/dev
+# S3 Bucket zappa-fth
 
 
 # SECTION 1:  IMPORT FILES AND FUNCTIONS
