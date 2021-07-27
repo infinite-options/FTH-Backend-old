@@ -1,5 +1,5 @@
 # FTH BACKEND PYTHON FILE
-# Feed The Hungry
+# ServingNow.me
 # https://c1zwsl05s5.execute-api.us-west-1.amazonaws.com/dev
 
 
